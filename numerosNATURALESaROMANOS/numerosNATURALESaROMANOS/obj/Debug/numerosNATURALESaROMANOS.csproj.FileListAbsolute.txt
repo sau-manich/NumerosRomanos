@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2012\Projects\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\bin\Debug\numerosNATURALESaROMANOS.exe.config
+c:\users\acer\documents\visual studio 2012\Projects\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\bin\Debug\numerosNATURALESaROMANOS.exe
+c:\users\acer\documents\visual studio 2012\Projects\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\bin\Debug\numerosNATURALESaROMANOS.pdb
+c:\users\acer\documents\visual studio 2012\Projects\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\obj\Debug\numerosNATURALESaROMANOS.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2012\Projects\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\obj\Debug\numerosNATURALESaROMANOS.exe
+c:\users\acer\documents\visual studio 2012\Projects\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\obj\Debug\numerosNATURALESaROMANOS.pdb
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\bin\Debug\numerosNATURALESaROMANOS.exe.config
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\obj\Debug\numerosNATURALESaROMANOS.exe
+C:\Users\Acer\Documents\Visual Studio 2012\Projects\100ejercicios de estructura\numerosNATURALESaROMANOS\numerosNATURALESaROMANOS\obj\Debug\numerosNATURALESaROMANOS.pdb
